@@ -1,6 +1,7 @@
+import Dice from './dice.js';
+import YatzyEngine from './YatzyEngine.js';
 
-import Dice from '.dice.js';
-import YatzyEngine from '.yatzyEngine.js';
+
 
 class YatzyGame {
     constructor() {
